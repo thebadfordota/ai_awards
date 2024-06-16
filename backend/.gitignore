@@ -1,0 +1,13 @@
+# SqLite3
+db.sqlite3
+db.sqlite3-journal
+
+# Static files
+static/
+media/
+
+# Env
+.env.dev
+
+# Datasets
+datasets/**/*.pkl

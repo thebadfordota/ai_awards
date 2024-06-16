@@ -1,0 +1,2 @@
+from .user_notifications_command_model_viewset import UserNotificationsCommandModelViewSet
+from .user_notifications_query_model_viewset import UserNotificationsQueryModelViewSet
